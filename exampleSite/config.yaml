@@ -144,7 +144,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.webp"
+    image: "/images/me.png"
     content: |-
       I am a software developer with a passion for Games, Desktop and web development along with Devops. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently doing my Bachelors in Computer Applications.
       I am currently working on a project that helps people get fimiliar with GNU/Linux based Operating Systems.
