@@ -146,8 +146,8 @@ params:
     title: "About Me"
     image: "/images/me.webp"
     content: |-
-      I am a software developer with a passion for Games, Desktop and web development along with Devops. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently doing my bachelors in Bachelor of Computer Applications.
-      I am currently working on a project that will be used to help people get fimiliar with GNU/Linux based Operating Systems.
+      I am a software developer with a passion for Games, Desktop and web development along with Devops. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently doing my Bachelors in Computer Applications.
+      I am currently working on a project that helps people get fimiliar with GNU/Linux based Operating Systems.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -172,12 +172,12 @@ params:
       - job: "Technical Content Writer internship"
         company: "C# Corner"
         companyUrl: "https://www.c-sharpcorner.com/"
-        date: "mar 2022 - apr 2020"
+        date: "mar 2022 - apr 2022"
         featuredLink:
           enable: true
           name: "View the profile"
           url: "https://www.c-sharpcorner.com/members/prakash-kumar90"
-        content: "I have worked as a Technical Content Writer intern at [example org.](https://www.c-sharpcorner.com/) in Ghaziabad, UP. I wrote on technologies like Visual Studio/code, Graphic Programming and BGI."
+        content: "I have worked as a Technical Content Writer intern at [C# Corner.](https://www.c-sharpcorner.com/) in Ghaziabad, UP. I wrote on technologies like Visual Studio/code, Graphic Programming and BGI."
 
       # - job: "Software Developer"
       #   company: "Amazon"
@@ -243,7 +243,7 @@ params:
         GPA: "3.6 out of 5.0"
         content: |-
           Extracurricular Activities
-            - Organized a campus wide LAN Gaming Tournament.
+            - Organized a campus wide LAN Gaming Tournament(20+ Servers).
             - Volunteered at various campus organized events.
       # - title: "Bachelor of Science in Computer Science"
       #   school:
