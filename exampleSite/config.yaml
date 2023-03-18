@@ -119,7 +119,7 @@ params:
     intro: "Hi, my name is"
     title: "Prakash."
     subtitle: "I build things that pique my interests."
-    content: "A passionate software developer. I tend to make use of a verirty of technologies to build websites, programs and games. that feels fantastic, and functions correctly"
+    content: "A passionate software developer. I tend to make use of a variety of technologies to build websites, programs and games. that feels fantastic, and functions correctly"
     image: https://i.imgur.com/6ZGl7Tl.jpg
     bottomImage:
       enable: true
@@ -420,12 +420,12 @@ params:
       messageCaption: "Enter your message here"
 
   footer:
-    # recentPosts:
-    #   path: "blogs"
-    #   count: 3
-    #   title: Recent Posts
-    #   enable: true
-    #   disableFeaturedImage: false
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Prakash4844
       linkedin: https://www.linkedin.com/in/prakash4844/
