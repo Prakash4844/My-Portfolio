@@ -23,7 +23,7 @@ Community](https://visualstudio.microsoft.com/vs/community/).
     
       - Desktop development with C++ workload
 
-> ![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image1.png)
+> ![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image1.png)
 
   - Basic Knowledge of C++
 
@@ -37,16 +37,16 @@ or ***right click/open.***
 
 Step 2 – Click on ***create a new Project.***
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image2.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image2.png)
 
 Step 3 – Search for ***C++ Console app*** and ***Click*** on it.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image3.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image3.png)
 
 Step 4 – Put your ***Project name*** and a ***location*** in the fields.
 And click ***create***.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image4.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image4.png)
 
 Now VSCommunity will create a solution for you.
 
@@ -58,24 +58,24 @@ Explorer***, its either in RHS or LHS. In ***solution explorer*** click
 of ***Source files*** and you will see a intial file that the vs code
 provides. And it will open the hello world program in editor
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image5.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image5.png)
 
 Step 6 – Create a ***new item***. By right clicking Project in
 ***solution explorer*** then click ***Add*** and in next option menu
 click on ***new item***.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image6.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image6.png)
 
 Step 7 – Select ***C++ File (.cpp)*** File. Give the new file a name(we
 will use “square”), and it will be added to your project.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image7.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image7.png)
 
 In newly created c++ file, For the sake of simplicity, We will write a
 function that take one integer number as parameter and than returns the
 square of given integer number.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image8.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image8.png)
 
   - Now edit the Main File(“Multiple Files Article.cpp”) that
     VSCommunity Provided us to use the function Square we have just
@@ -116,12 +116,12 @@ If You tried to run the program now.
 (To run the code, on the menu bar, choose Debug, ***Start without
 debugging***. A console window opens and then runs your app.)
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image9.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image9.png)
 
 Vscommunity will compile either ***Multiple Files Article.cpp*** first
 or ***Square.cpp*** first either way it will throw an error.
 
-![](How-to-use-multiple-code-files-in-CPP-for-beginners/media/image10.png)
+![](images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image10.png)
 
 Compiler compiles the file individually and don’t know/remembers the
 contents of other cpp file implicitly. This is done intentionally in C++

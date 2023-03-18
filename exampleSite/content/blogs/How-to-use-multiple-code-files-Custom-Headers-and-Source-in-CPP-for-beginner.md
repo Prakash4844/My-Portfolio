@@ -22,7 +22,7 @@ For this, You should use an Integrated Development Environment. This will greatl
 - Visual Studio Community
   - Desktop development with C++ workload
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Workload.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Workload.png)
 
 *Workload window of Visual studio community*
 
@@ -38,19 +38,19 @@ For this, You should use an Integrated Development Environment. This will greatl
 
 Step 1 – Launch Visual Studio Community by Double clicking on its icon or ***right click/open.***
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/VSComm_Open.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/VSComm_Open.jpg)
 
 *Open Visual Studio community*
 
 Step 2 – Once Visual Studio Community open up, click on ***create a new Project.***
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/new_project.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/new_project.png)
 
 Create a new Project
 
 Step 3 – Search for ***C++ Console app*** and ***Click*** on it. Or you can choose it from recent templates if you have used console application before.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Console_app.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Console_app.jpg)
 
 *Choose appropriate template(C++ Console application)*
 
@@ -60,34 +60,34 @@ Now Visual Studio Community will create a solution for you.
 
 Solutions: A solution is simply a container Visual Studio use to organize one or more related projects.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ConfigurenewProject.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ConfigurenewProject.png)
 
 *Configure newly created project*
 
 Step 5 – When Visual Studio Community Editor opens up. Look for ***Solution Explorer***, its either in RHS or LHS. In ***solution explorer*** click of ***Source files*** and you will see an initial file that the Visual Studio Community provides. And it will open the hello world program in The editor
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Initialhelloword.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Initialhelloword.jpg)
 
 *An Initial hello world program provided by Visual Studio community*
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Solutionexplorer.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Solutionexplorer.jpg)
 
 Solution explorer tab
 
 Step 6 – Create a ***new item***. By right clicking Project in ***solution explorer*** then click ***Add*** and in next option menu click on ***new item***.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
 
 Create a new Item 
 
 
 Step 7 – Select ***C++ File (.cpp)*** File. Give the new file a name(we will use “Square”), and it will be added to your project.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Add_new_file.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Add_new_file.png)
 
 Choose a CPP Source file
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Square.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Square.png)
 
 Make Square function in Square.cpp 
 
@@ -140,7 +140,7 @@ Adding a Header File works same as how we added another CPP source file(Squre.cp
 
 Step 8 – Create a ***new item***. By right clicking Project in ***solution explorer*** then click ***Add*** and in next option menu click on ***new item***.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
 
 Create a new item
 
@@ -148,7 +148,7 @@ Step 7 – This time select ***Header File (.h)*** File.
 
 Header files are commonly used with CPP (Source) code files, with the header file providing forward declarations(Prototype) for the corresponding CPP code file. Since our header file will contain a forward declaration for functions defined in *Square.cpp*, we’ll Name our new header file *Square.h*. and Click *Create* and it will be added to your project.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Adding_Header.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Adding_Header.jpg)
 
 Choose Header file
 
@@ -156,7 +156,7 @@ Choose Header file
 
 Also, Check in Solution explorer if it is added to your solution
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Header_Solution_explorer.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Header_Solution_explorer.jpg)
 
 Check if header is included in our solution
 
@@ -190,7 +190,7 @@ int main()
 
 }
 ```
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Adding_SquareH.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Adding_SquareH.jpg)
 
 Include Header in main file
 
@@ -208,7 +208,7 @@ In C++, code files should #include their paired header file (if one exists). In 
 
 This allows the compiler to catch errors like different return type at compile time instead of link time
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Paired_Header.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Paired_Header.jpg)
 
 Include paired Header file in Source file 
 
@@ -285,7 +285,7 @@ Most Modern compilers including Visual Studio Community support a simple, form o
 ```
 int square(int num); //This will tell the compiler that this function is written somewhere in solution.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Pregma.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Pregma.jpg)
 
 Using #pragma once
 
@@ -329,7 +329,7 @@ The “**HEADER\_H”** used is not important, but it must be unique and recogni
 
 A **HEADER\_H** is to use the name of the header file, converting the .h suffix to a \_H. The purpose of this is to serve as a marker. If the **HEADER\_H** is defined, then this section of code has been defined before and should not be included again. If the symbol has not been defined, then the code it is associated with has not been included. and will be included.
 
-![](How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ifndef_define_endif.jpg)
+![](images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ifndef_define_endif.jpg)
 
 Using #ifndef, #define and #endif
 
