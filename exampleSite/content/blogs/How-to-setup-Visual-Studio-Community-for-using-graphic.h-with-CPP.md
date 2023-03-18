@@ -1,4 +1,17 @@
 ---
+title: "HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h"
+date: 2022-06-18T22:53:58+05:30
+draft: false
+github_link: "https://github.com/Prakash4844/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP"
+author: "Prakash"
+tags:
+  - Graphic Programming
+  - BGI
+  - Visual Studio
+  - C++
+image: /images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg
+description: "Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++."
+toc: 
 ---
 
 <h1 align="center"> HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h</h1>

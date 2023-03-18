@@ -1,9 +1,24 @@
 ---
+title: "How to use multiple code files in C++ for beginners."
+date: 2022-06-17T22:53:58+05:30
+draft: false
+github_link: "https://github.com/Prakash4844/How-to-use-multiple-code-files-in-CPP-for-beginners"
+author: "Prakash"
+tags:
+  - C++
+  - Visual Studio
+image: /images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image10.png
+description: "When we code in a programming language, if our code is a small console
+application, then we can easily make this in a single file. But, once
+our program gets larger. We should split our programs in multiple files
+for easy maintainability and reusability of our code.
+"
+toc: 
 ---
 
 <h1 align="center"> How to use multiple code files in C++ for beginners.</h1>
 
-# Introduction
+## Introduction
 
 When we code in a programming language, if our code is a small console
 application, then we can easily make this in a single file. But, once
@@ -17,7 +32,7 @@ Community](https://visualstudio.microsoft.com/vs/community/) (it is
 free) In this article we will be using [Visual studio
 Community](https://visualstudio.microsoft.com/vs/community/).
 
-# Requirements
+## Requirements
 
   - Visual Studio Community
     
@@ -30,7 +45,7 @@ Community](https://visualstudio.microsoft.com/vs/community/).
 **NOTE: I WILL NOT BE COVERING HOW TO INSTALL OR STEP UP VISUAL STUDIO
 COMMUNITY IN THIS ARTICLE.**
 
-# Step-by-step instructions
+## Step-by-step instructions
 
 Step 1 – Launch Visual Studio Community by Double clicking on its icon
 or ***right click/open.***
@@ -180,7 +195,7 @@ correctly.
 > of *square.cpp* directly into *main.cpp* instead of treating them as
 > separate files.
 
-# Summary
+## Summary
 
 In this article we have learned that instead of writing functions in
 same C++ file in which we have main function which can actually get

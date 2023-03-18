@@ -1,13 +1,25 @@
 ---
+title: "How to use multiple code files(Custom Headers and Source) in C++ for beginners."
+date: 2022-06-17T22:53:58+05:30
+draft: false
+github_link: "https://github.com/Prakash4844/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner"
+author: "Prakash"
+tags:
+  - C++
+  - Visual Studio
+image: /images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ifndef_define_endif.jpg
+description: "ou can write everything in one file if you are working on a smaller console applications. But if you tried to do this in large projects, then it will make your code an absolute mess.
+So, once our program gets larger. We should split our programs in multiple files for easy maintainability and reusability of our code."
+toc: 
 ---
 
 <h1 align="center"> How to use multiple code files(Custom Headers and Source) in C++ for beginners.</h1>
 
-**Introduction**
+## **Introduction**
 
 In the last article of mine, we covered how we can use multiple files in C++ for Functions if you haven’t checked it out yet, you can do so at [How To Use Multiple Code Files In C++](https://www.c-sharpcorner.com/article/how-to-use-multiple-code-files-in-cpp/). But now the question arises why do we even need to use multiple files in C++? Can’t we just write everything in one file?
 
-**Why even use Multiple code files in C++?**
+## **Why even use Multiple code files in C++?**
 
 The answer is yes, yes you can write everything in one file if you are working on a smaller console applications. But if you tried to do this in large projects, then it will make your code an absolute mess.
 
@@ -15,7 +27,7 @@ So, once our program gets larger. We should split our programs in multiple files
 
 For this, You should use an Integrated Development Environment. This will greatly ease the process. [Visual studio code](https://code.visualstudio.com/)  can also be used, but it will make the task unnecessarily hard, [Visual studio Community](https://visualstudio.microsoft.com/vs/community/) (it is free version of visual studio which is a free version of Visual studio Professional and Visual studio Enterprise) In this article we will be using [Visual studio Community](https://visualstudio.microsoft.com/vs/community/).
 
-**Requirements**
+## **Requirements**
 
 - Basic Knowledge of C++ Programming
 - Basic Knowledge of Object Oriented Programming(OOPS)
@@ -34,7 +46,7 @@ For this, You should use an Integrated Development Environment. This will greatl
 
 
 
-**Step-by-step instructions**
+## **Step-by-step instructions**
 
 Step 1 – Launch Visual Studio Community by Double clicking on its icon or ***right click/open.***
 
@@ -337,7 +349,7 @@ Note: You can comment out large sections of code if you put a **#if 0** at the
 
 **NOTE:** You should stick to traditional header guards. They aren’t much more work and they’re guaranteed to be supported on all Standard compliant compilers.
 
-**Summary**
+## **Summary**
 
 In this article, we have learned that instead of writing all the functions in same C++ file in which we have main function, we can have the functions in separate files(Source files), and instead of writing forward declaration of every function in main.cpp file we can use custom headers(Header files) and we also learned how we can avoid double definitions by inclusion of headers with the help of #pragma once and traditional Header Guards this helps in avoiding definition conflicts, and improve the reusability of code and maintaining the code much easier.
 
