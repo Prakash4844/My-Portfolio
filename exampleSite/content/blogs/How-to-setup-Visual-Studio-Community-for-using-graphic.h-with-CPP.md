@@ -1,4 +1,15 @@
 ---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+author: "Prakash"
+tags: 
+    -Graphic programming
+    -C++
+    -BGI
+    -Visual Studio
+image: How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg
+description: "Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++."
+toc:
 ---
 
 <h1 align="center"> HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h</h1>
