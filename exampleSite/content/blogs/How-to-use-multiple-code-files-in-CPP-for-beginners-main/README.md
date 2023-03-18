@@ -185,5 +185,3 @@ messy real quick. we can have the function in separate file this helps
 in reusability of code and maintaining the code much easier.
 
 if you liked the article please star this repository.
-
-
