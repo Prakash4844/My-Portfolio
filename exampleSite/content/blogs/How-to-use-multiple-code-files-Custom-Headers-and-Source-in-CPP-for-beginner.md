@@ -7,7 +7,7 @@ author: "Prakash"
 tags:
   - C++
   - Visual Studio
-image: /images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/ifndef_define_endif.jpg
+image: /images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/Thumb.jpg
 description: "ou can write everything in one file if you are working on a smaller console applications. But if you tried to do this in large projects, then it will make your code an absolute mess.
 So, once our program gets larger. We should split our programs in multiple files for easy maintainability and reusability of our code."
 toc: 
