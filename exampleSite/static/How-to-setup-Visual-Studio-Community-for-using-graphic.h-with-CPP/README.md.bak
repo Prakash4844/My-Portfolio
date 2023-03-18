@@ -1,6 +1,3 @@
----
----
-
 <h1 align="center"> HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h</h1>
 
 ## **INTRODUCTION**
@@ -52,28 +49,28 @@ Note: you can setup graphic.h to work with both [Visual studio Community](https:
 
 **Step 2:** Install Visual Studio Community as you would install any other setup. After installing Visual Studio Community, open Visual studio community installer by searching it in the start menu as shown in below screenshots
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Open_VSCOmmunity.jpg)
+![](media/Open_VSCOmmunity.jpg)
 
 **Step 3:** Once Visual Studio Community Installer opens up click on modify to modify your installation.
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/VSCOmmunity_Installer_Modify.jpg)
+![](media/VSCOmmunity_Installer_Modify.jpg)
 
 
 **Step 4:** Choose The Highlighted workload below to download and install it in your Visual Studio Community Installation.
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Workload.png)
+![](media/Workload.png)
 
 **Step 5:** After installing the workload, We would also need to download one more file that is **WinBGIm Graphics Library for Visual Studio**. Here **BGI** Stands for (**Borland Graphics Interface**) [Click Here](https://home.cs.colorado.edu/~main/bgi/visual/), download the “BGI2010.zip” File
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Download_winBGI.jpg)
+![](media/Download_winBGI.jpg)
 
 **Step 6:** After downloading, right-click the file and select "Extract All" to unarchive the files in your desired path/directory.  
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Extract_winBGI.jpg)
+![](media/Extract_winBGI.jpg)
 
 The new directory will be created, named BGI, it has all necessary files that you will need (including the WinBGIm which contains graphic.h, winbgim.h and winbgi.h Libraries and a pre-set project that is already set up to you to test them) in order to create a computer graphics programs in Visual Studio community. 
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Graphics_Workspace.jpg)
+![](media/Graphics_Workspace.jpg)
 
 
 You should now rename of this folder to a name for your own liking that is easy to remember for you, such as “**Graphical Programming Workspace**”. And copy it to a easily accessible location such as your Document folder or your desktop. 
@@ -85,7 +82,7 @@ Navigate to that directory. And you will see a bunch of files there which also i
 **Step 7:** In this folder, open the file named “bgi.vcxproj”. and the project will open in Visual Studio Community.
 
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/BGI_Project.jpg)
+![](media/BGI_Project.jpg)
 
 
 
@@ -98,17 +95,17 @@ And Visual Studio Community will Reconfigure the Project to target the Current V
 
 
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Retarget_Project.jpg)
+![](media/Retarget_Project.jpg)
 
 **Step 9:** In Visual Studio Community, Open** the solution explorer then open the source file and you will see a bunch of files there here create a new source code file(.**cpp**)
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Sol_Explorer.jpg)
+![](media/Sol_Explorer.jpg)
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/New_Source_File.jpg)
+![](media/New_Source_File.jpg)
 
 **Step 10:** Select C++ File (.**cpp**) File. Give the new file a name(we will use “Test”), and it will be added to your project.
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/test_file.jpg)
+![](media/test_file.jpg)
 
 **Step 11:** Now write this code in **test.cpp** and Save the file.
 
@@ -139,11 +136,11 @@ int main()
 **Step 12:** Now build and run the Code by Clicking on **Debug** the click on **Start without Debugger** in drop down menu.
 
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Run_without_debugger.jpg)
+![](media/Run_without_debugger.jpg)
 
 And you will see that your Program runs and a Circle is drawn on the console that opens up as shown in the screenshot.
 
-![](How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg)
+![](media/Drawn_Circle.jpg)
 
 
 Now, whenever you would need to write a new code just create a new file and write code in it and run just as we did for **test.cpp**
