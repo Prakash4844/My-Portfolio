@@ -137,8 +137,8 @@ params:
         - icon: fab fa-twitter
           url: https://twitter.com/Prakash53574940
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        # - icon: /fav.png
+        #   url: "https://example.com"
 
   # About
   about:
