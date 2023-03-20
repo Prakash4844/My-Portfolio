@@ -3,6 +3,6 @@ publish = "public" # default hugo build folder
 command = "hugo --gc --minify --enableGitInfo" # --themesDir ../.."  hugo build command
 
 [context.production.environment]
-HUGO_VERSION = "0.110.0"
+HUGO_VERSION = "0.99.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
