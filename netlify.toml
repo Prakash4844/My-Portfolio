@@ -1,8 +1,33 @@
 [build]
-publish = "public" # default hugo build folder
-command = "hugo --gc --minify --enableGitInfo" # --themesDir ../.."  hugo build command
+publish = "public"
+command = 'echo -e "\ngoogleAnalytics: $GOOGLE_ANALYTICS \ndisqusShortname: $DISQUS_SHORTNAME \n" >> config.yaml && hugo --gc --minify --themesDir ../..'
 
 [context.production.environment]
-HUGO_VERSION = "0.99.1"
+HUGO_VERSION = "0.92.0"
 HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+HUGO_THEME = "repo"
+
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo --themesDir ../.."
+
+[context.split1.environment]
+HUGO_VERSION = "0.92.0"
+HUGO_ENV = "production"
+HUGO_THEME = "repo"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture --themesDir ../.. -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.92.0"
+HUGO_THEME = "repo"
+
+[context.branch-deploy]
+command = "hugo --gc --minify --themesDir ../.. -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.92.0"
+
+[context.next.environment]
 HUGO_ENABLEGITINFO = "true"
