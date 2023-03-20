@@ -6,7 +6,7 @@ command = 'echo -e "\ngoogleAnalytics: $GOOGLE_ANALYTICS \ndisqusShortname: $DIS
 HUGO_VERSION = "0.92.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-HUGO_THEME = "repo"
+HUGO_THEME = "hugo-profile"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"# --themesDir ../.."
@@ -14,14 +14,14 @@ command = "hugo --gc --minify --enableGitInfo"# --themesDir ../.."
 [context.split1.environment]
 HUGO_VERSION = "0.92.0"
 HUGO_ENV = "production"
-HUGO_THEME = "repo"
+HUGO_THEME = "hugo-profile"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"# --themesDir ../.. -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.92.0"
-HUGO_THEME = "repo"
+HUGO_THEME = "hugo-profile"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL" #--themesDir ../.. -b $DEPLOY_PRIME_URL"
