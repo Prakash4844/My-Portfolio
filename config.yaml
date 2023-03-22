@@ -2,8 +2,8 @@ baseURL: "https://zaphkiel.netlify.app/"
 languageCode: "en-us"
 title: "Prakash's Portfolio"
 theme: hugo-profile
-relativeURLs: true
-uglyURLs: true
+# relativeURLs: true
+canonifyURLs: true
 
 outputs:
   home:
