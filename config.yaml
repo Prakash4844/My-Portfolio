@@ -164,6 +164,8 @@ params:
         - "C#"
         - "Linux"
         - "Unreal"
+        - "Python"
+        - "C/C++"
         # - "Example"
 
   # Experience
@@ -290,10 +292,10 @@ params:
         url: https://www.coursera.org/account/accomplishments/certificate/ZAS8ADC4764A
       - title: Game Design and Development 1
         content: Provided by Michigan State University Through coursera.
-        url: https://coursera.org/share/3cc219bac94d1226b8af9d6a91315f46
+        url: https://www.coursera.org/account/accomplishments/certificate/YH3JHX2T5NAD
       - title: Psychological first aid
         content: Provieded by Johns Hopkins University Through coursera.
-        url: https://coursera.org/share/d155c12c97ff452e1404af81ad73cb39
+        url: https://www.coursera.org/account/accomplishments/certificate/RK5PE3GSNEHT
 
   # projects
   projects:
@@ -337,8 +339,8 @@ params:
         content: Rubikc The Rubik's Cube game. The Rubik's Cube is a 3-D combination puzzle
         image: images/projects/Rubick.png
         featured:
-          name: Coming Soon
-          link:
+          name: Download Here 
+          link: https://github.com/Prakash4844/Rubikc/releases/tag/v1.0
         badges:
           - "Unity"
           - "Matrix"
