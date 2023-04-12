@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Download Resume"
-      url: "https://drive.google.com/file/d/1Jd3KJYzxiZ3ZS84i1h0xOD9HUQp_4ZeI/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1CYUPGoyBro0i6P7jW63jVS7ZkOokzd3_/view?usp=sharing"
       download: true
       newPage: true
     socialLinks:
