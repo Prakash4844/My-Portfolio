@@ -281,6 +281,12 @@ params:
     enable: true
     title: "Certifications"
     items:
+      - title: Introduction to DevOps
+        content: Provided by IBM Through coursera.
+        url: 
+      - title: Introduction to Software, Programming, and Databases.
+        content: Provided by IBM Through coursera.
+        url: https://coursera.org/share/3a89b293935639cb3a5abb1ee939d926
       - title: Introduction to Hardware and Operating Systems
         content: Provided by IBM Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/Y54BGDEG5RSN
