@@ -10,9 +10,13 @@ tags:
   - Visual Studio
   - C++
 image: /images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/Thumb.jpg
-description: "Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++."
+# description: "Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++."
 toc: 
 ---
+Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++.
+
+<!--more-->
+
 
 <h1 align="center"> HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h</h1>
 
