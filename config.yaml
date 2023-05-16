@@ -262,7 +262,7 @@ params:
           name: "Chaudhary Charan Singh University (formerly, Meerut University), meerut"
           url: "https://www.ccsuniversity.ac.in/ccsum/"
         date: "2020 - 2023"
-        GPA: "3.6 out of 5.0"
+        GPA: "3.9 out of 5.0"
         content: |-
           Extracurricular Activities
             - Organized a campus wide LAN Gaming Tournament(20+ Servers).
@@ -349,6 +349,25 @@ params:
             url: mailto:prakashsahu0518@gmail.com
           - icon: fab fa-github
             url: https://github.com/Prakash4844/Let-s-Learn-Linux
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: Calculator with GUI
+        content: A Easy to use Calculator made with Python using tkinter, CustomTkinter giving emphesis to lambda functions.
+        image: images/projects/GUI-Calc.png
+        featured:
+          name: Website
+          link: https://github.com/Prakash4844/CodeClause_Calculator
+        badges:
+          - "Python"
+          - "Tkinter"
+          - "CustomTkinter"
+          - "Calculator"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          - icon: fab fa-github
+            url: https://github.com/Prakash4844/CodeClause_Calculator
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
