@@ -154,18 +154,20 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
+        - "Python"
+        - "git and GitHub"
+        - "GitHub Action"
+        - "HTML/CSS"
         - "JavaScript"
         - "Hugo"
-        - "Unity Engine"
         - "PHP"
         - "Java"
-        - "C#"
         - "Linux"
-        - "Unreal"
-        - "Python"
+        - "Windows"
+        - "C#"
         - "C/C++"
+        - "Unity Engine"
+        - "Unreal"
         # - "Example"
 
   # Experience
@@ -368,6 +370,25 @@ params:
             url: mailto:prakashsahu0518@gmail.com
           - icon: fab fa-github
             url: https://github.com/Prakash4844/CodeClause_Calculator
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+      
+      - title: Hugo Page Generator
+        content: Making page in hugo is not that hard, but what if you want to make 500 pages? well it can be automated... So, i kind of did.
+        image: images/projects/Hugo-UI.png
+        featured:
+          name: Repo
+          link: https://github.com/Prakash4844/Hugo_Pages_Generator
+        badges:
+          - "Python"
+          - "Tkinter"
+          - "CustomTkinter"
+          - "Hugo"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          - icon: fab fa-github
+            url: https://github.com/Prakash4844/Hugo_Pages_Generator
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
