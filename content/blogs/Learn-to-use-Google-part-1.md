@@ -88,8 +88,11 @@ For many searches, Google will do the work for you and show an answer to your qu
 
 ![Tip 4-6](/images/Learn-to-use-Google-part-1/media/Tip4-6.png)
 
+### <u>**Conclusion**</u>
 
+This is a introduction to google searching, in furthur parts we will explore much more powerful
+Tips and tricks like Operator, functions etc.
 
+Till then.
 
-
-
+Stay Awesome...
