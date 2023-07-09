@@ -178,13 +178,13 @@ params:
       - job: "Python Developer Internship"
         company: "Code Clause"
         companyUrl: "https://codeclause.com/"
-        date: "May 2023 - Present"
+        date: "Apr 2023 - jun 2023"
         featuredLink:
           enable: true
           url: "https://www.linkedin.com/in/prakash4844/"
         info:
           enable: true
-          content: I am workind as a Python developer intern in Code Clause.
+          content: I am working as a Python developer intern in Code Clause.
         content: |
           I am currently working as a Python developer at [Code Clause](https://codeclause.com/) in pune, remotely. I am currently working on project that use various python modules such as tkinter, customtinkter, pyperclip, py to exe etc.
 
@@ -301,30 +301,50 @@ params:
     enable: true
     title: "Certifications and Badges"
     items:
+      - title: Introduction to Cloud Computing
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        url: https://www.credly.com/badges/c33579fb-d9ce-4542-a160-12f6ab95b374/public_url
+
+      - title: DevOps Essentials
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        url: https://www.credly.com/badges/9811055c-dd3f-4edd-874a-04e650238060/public_url
+
+      - title: Introduction to Cloud Computing
+        content: Provided by IBM Through coursera.
+        url: https://www.coursera.org/account/accomplishments/certificate/BFW2XQYJNEBD
+
       - title: Introduction to DevOps
         content: Provided by IBM Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/NY38BR4KKGYN
+
       - title: Hardware and Operating Systems Essential
         content: Provided by IBM, Issued by Coursera Through Credly.
-        url: https://www.credly.com/badges/2cb094fc-fc69-4872-8d74-f84c87fafa4e/linked_in_profile
+        url: https://www.credly.com/badges/2cb094fc-fc69-4872-8d74-f84c87fafa4e/public_url
+      
       - title: Software, Programming, and Database Essentials
         content: Provided by IBM, Issued by Coursera Through Credly.
-        url: https://www.credly.com/badges/5e1bd711-131f-4b9b-b213-e0ed5846c807/linked_in_profile
+        url: https://www.credly.com/badges/5e1bd711-131f-4b9b-b213-e0ed5846c807/public_url
+      
       - title: Introduction to Software, Programming, and Databases.
         content: Provided by IBM Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/WBJDS474JQJZ
+      
       - title: Introduction to Hardware and Operating Systems
         content: Provided by IBM Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/Y54BGDEG5RSN
+      
       - title: Version Control with Git
         content: Provided by Atlassian Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/3TVV2EZPD38Y
+      
       - title: Version Control
         content: Provided by META Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/ZAS8ADC4764A
+      
       - title: Game Design and Development 1
         content: Provided by Michigan State University Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/YH3JHX2T5NAD
+      
       - title: Psychological first aid
         content: Provieded by Johns Hopkins University Through coursera.
         url: https://www.coursera.org/account/accomplishments/certificate/RK5PE3GSNEHT
@@ -354,27 +374,28 @@ params:
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
         
-      # - title: GitHub Streak Maintainer
-      #   content: |
-      #     Break free from the burden of maintaining your GitHub streak manually! Introducing 'GitHub streak maintainer'. 
-      #     Say goodbye to missed days and hello to an effortless streak. With everything automated, this innovative project ensures 
-      #     your GitHub streak stays unbroken. Let the streak remain till the end of time!
-      #   image: images/projects/Github_Streak.jpg
-      #   featured:
-      #     name: See Project
-      #     link: https://github.com/Prakash4844/Github_Streak_Maintainer
-      #   badges:
-      #     - "Python"
-      #     - "Git"
-      #     - "GitHub"
-      #     - "GitHub Actions"
-      #     - "Automation"
-      #     - "CI/CD"
-      #   links:
-      #     - icon: fa fa-envelope
-      #       url: mailto:prakashsahu0518@gmail.com
-      #     - icon: fab fa-github
-      #       url: https://github.com/Prakash4844/Github_Streak_Maintainer
+      - title: GitHub Streak Maintainer
+        content: |
+          Break free from the burden of maintaining your GitHub streak manually! Introducing 'GitHub streak maintainer'. 
+          Say goodbye to missed days and hello to an effortless streak. With everything automated, this innovative project ensures 
+          your GitHub streak stays unbroken. Let the streak remain till the end of time!
+        image: images/projects/Github_Streak.jpg
+        featured:
+          name: This is private project, Email me. 
+          link: mailto:prakashsahu0518@gmail.com
+          # link: https://github.com/Prakash4844/Github_Streak_Maintainer
+        badges:
+          - "Python"
+          - "Git"
+          - "GitHub"
+          - "GitHub Actions"
+          - "Automation"
+          - "CI/CD"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          # - icon: fab fa-github
+          #   url: https://github.com/Prakash4844/Github_Streak_Maintainer
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -434,6 +455,45 @@ params:
           #   url: mailto:prakashsahu0518@gmail.com
           - icon: fab fa-github
             url: https://github.com/Prakash4844/CodeClause_Random_Password_Generator
+
+      - title: Pong Python
+        content: This is legendary pong game in python.
+        image: images/projects/pong.ico
+        featured:
+          name: See project
+          link: https://github.com/Prakash4844/Pong-Python
+        badges:
+          - "Python"
+          - "Turtle"
+          - "Pong"
+          - "Game"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          - icon: fab fa-github
+            url: https://github.com/Prakash4844/Pong-Python
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+      
+      - title: Jehrila Python
+        content: This is a snake game in python, it's name is Jehrila. jehrila means poisonous in my native language.
+        image: images/projects/Jehrila.ico
+        featured:
+          name: See project
+          link: https://github.com/Prakash4844/Jehrila-Python
+        badges:
+          - "Python"
+          - "Turtle"
+          - "Snake"
+          - "Game"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          - icon: fab fa-github
+            url: https://github.com/Prakash4844/Jehrila-Python
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+        
 
       - title: Solar System Simulation
         content: A simulation of milky way galaxy containing various planet and sun using Unity Engine.
