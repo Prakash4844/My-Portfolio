@@ -175,6 +175,23 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Microsoft Future Ready Internship"
+        company: "Microsoft"
+        companyUrl: "https://www.microsoft.com/en-in"
+        date: "jul 2023 - Present"
+        featuredLink:
+          enable: true
+          url: "https://www.linkedin.com/in/prakash4844/"
+        info:
+          enable: true
+          content: Future Ready Talent, a virtual internship that teaches you today's most in-demand digital skills and connects you to future employment opportunities. 
+        content: |
+          MS Future Ready Internship offers cutting-edge opportunities for students to gain hands-on experience in emerging technologies, fostering innovation and preparing them for future careers.
+          - MS Future Ready Internship: Gain practical experience in cutting-edge technologies, preparing you for future career success.
+          - Collaborate with industry experts, work on real-world projects, and develop a strong professional network.
+          - Access exclusive resources, mentorship, and training opportunities to enhance your skills and accelerate your career growth.
+
+
       - job: "Python Developer Internship"
         company: "Code Clause"
         companyUrl: "https://codeclause.com/"
