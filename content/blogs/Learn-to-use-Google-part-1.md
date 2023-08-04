@@ -1,5 +1,5 @@
 ---
-title: "Learn to Use Google : Part 1"
+title: "Learn to Use Google: #1"
 date: 2023-06-15T09:38:25+05:30
 draft: false
 github_link: ""
@@ -8,6 +8,7 @@ tags:
   - Search engine
   - Google
   - Googling skill
+  - Googling Part 1
 image: /images/Learn-to-use-Google-part-1/Thumb.jpg
 toc: 
 ---
@@ -91,7 +92,7 @@ For many searches, Google will do the work for you and show an answer to your qu
 ### <u>**Conclusion**</u>
 
 This is a introduction to google searching, in furthur parts we will explore much more powerful
-Tips and tricks like Operator, functions etc.
+Tips and tricks like Operator etc.
 
 Till then.
 
