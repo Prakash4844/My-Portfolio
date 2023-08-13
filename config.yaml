@@ -332,22 +332,22 @@ params:
 
       - title: Introduction to Cloud Computing
         content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/introduction-to-cloud-computing.png
+        image: images/Achievements/credly_badge/introduction-to-cloud-computing.webp
         url: https://www.credly.com/badges/c33579fb-d9ce-4542-a160-12f6ab95b374/public_url
 
       - title: DevOps Essentials
         content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/devops-essentials.2.png
+        image: images/Achievements/credly_badge/devops-essentials.2.webp
         url: https://www.credly.com/badges/9811055c-dd3f-4edd-874a-04e650238060/public_url
       
       - title: Hardware and Operating Systems Essential
         content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/hardware-and-operating-system-essentials.png
+        image: images/Achievements/credly_badge/hardware-and-operating-system-essentials.webp
         url: https://www.credly.com/badges/2cb094fc-fc69-4872-8d74-f84c87fafa4e/public_url
       
       - title: Software, Programming, and Database Essentials
         content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/software-programming-and-database-essentials.png
+        image: images/Achievements/credly_badge/software-programming-and-database-essentials.webp
         url: https://www.credly.com/badges/5e1bd711-131f-4b9b-b213-e0ed5846c807/public_url
 
   # projects
