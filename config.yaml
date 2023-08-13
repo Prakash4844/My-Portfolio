@@ -287,47 +287,47 @@ params:
     items:
       - title: DevOps, Cloud, and Agile Foundations Specialization
         content: Provided by IBM, Through Coursera.
-        image: images/Achievements/IBM-Specialization-Devops,cloud,agile.png
+        image: images/Achievements/IBM-Specialization-Devops,cloud,agile.webp
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZX8BJVA2SCLH
 
       - title: Introduction to Cloud Computing
         content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-cloud-computing.png
+        image: images/Achievements/IBM-Intro-to-cloud-computing.webp
         url: https://www.coursera.org/account/accomplishments/certificate/BFW2XQYJNEBD
 
       - title: Introduction to DevOps
         content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-Devops.png
+        image: images/Achievements/IBM-Intro-to-Devops.webp
         url: https://www.coursera.org/account/accomplishments/certificate/NY38BR4KKGYN
       
       - title: Introduction to Software, Programming, and Databases.
         content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-software-programming-&-Database.png
+        image: images/Achievements/IBM-Intro-to-software-programming-&-Database.webp
         url: https://www.coursera.org/account/accomplishments/certificate/WBJDS474JQJZ
       
       - title: Introduction to Hardware and Operating Systems
         content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-Hardware-and-OS.png
+        image: images/Achievements/IBM-Intro-to-Hardware-and-OS.webp
         url: https://www.coursera.org/account/accomplishments/certificate/Y54BGDEG5RSN
       
       - title: Version Control with Git
         content: Provided by Atlassian Through coursera.
-        image: images/Achievements/Atlassian-Version-control-with-git.png
+        image: images/Achievements/Atlassian-Version-control-with-git.webp
         url: https://www.coursera.org/account/accomplishments/certificate/3TVV2EZPD38Y
       
       - title: Version Control
         content: Provided by META Through coursera.
-        image: images/Achievements/META-Version-Control.png
+        image: images/Achievements/META-Version-Control.webp
         url: https://www.coursera.org/account/accomplishments/certificate/ZAS8ADC4764A
       
       - title: Game Design and Development 1
         content: Provided by Michigan State University Through coursera.
-        image: images/Achievements/Michigan-state-uni-Gamedev-1.png
+        image: images/Achievements/Michigan-state-uni-Gamedev-1.webp
         url: https://www.coursera.org/account/accomplishments/certificate/YH3JHX2T5NAD
       
       - title: Psychological first aid
         content: Provieded by Johns Hopkins University Through coursera.
-        image: images/Achievements/John_hopkins-Psychological_first_aid.png
+        image: images/Achievements/John_hopkins-Psychological_first_aid.webp
         url: https://www.coursera.org/account/accomplishments/certificate/RK5PE3GSNEHT
 
       - title: Introduction to Cloud Computing
