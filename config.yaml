@@ -285,6 +285,10 @@ params:
     enable: true
     title: "Certifications and Badges"
     items:
+      - title: DevOps, Cloud, and Agile Foundations Specialization
+        content: Provided by IBM, Through Coursera.
+        url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZX8BJVA2SCLH
+
       - title: Introduction to Cloud Computing
         content: Provided by IBM, Issued by Coursera Through Credly.
         url: https://www.credly.com/badges/c33579fb-d9ce-4542-a160-12f6ab95b374/public_url
@@ -358,6 +362,29 @@ params:
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
         
+      - title: "TIT: Tit Information Tracker"
+        content: |
+          TIT - A Distributed Version Control System in Python. an Open Source project covered by the GNU General Public License.
+        image: images/projects/tit_logo_nobg.png
+        featured:
+          name: See Project
+          link: mailto:prakashsahu0518@gmail.com
+          link: https://github.com/Prakash4844/tit
+        badges:
+          - "Python"
+          - "Git"
+          - "Version Control"
+          - "VCS"
+          - "CLI"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:prakashsahu0518@gmail.com
+          - icon: fab fa-github
+            url: https://github.com/Prakash4844/tit
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
       - title: GitHub Streak Maintainer
         content: |
           Break free from the burden of maintaining your GitHub streak manually! Introducing 'GitHub streak maintainer'. 
