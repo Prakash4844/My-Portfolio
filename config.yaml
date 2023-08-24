@@ -290,6 +290,16 @@ params:
         image: images/Achievements/IBM-Specialization-Devops,cloud,agile.webp
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZX8BJVA2SCLH
 
+      - title: Getting Started with Git and GitHub
+        content: Provided by IBM Through coursera.
+        image: images/Achievements/IBM-Getting_Started_with_Git_and_GitHub.webp
+        url: https://www.coursera.org/account/accomplishments/certificate/W3U5BWXWDK47
+
+      - title: Hands-on Introduction to Linux Commands and Shell Scripting
+        content: Provided by IBM Through coursera.
+        image: images/Achievements/IBM_Intro_linux_Shell.webp
+        url: https://www.coursera.org/account/accomplishments/certificate/ZY3M274N9K72
+
       - title: Introduction to Cloud Computing
         content: Provided by IBM Through coursera.
         image: images/Achievements/IBM-Intro-to-cloud-computing.webp
@@ -329,6 +339,16 @@ params:
         content: Provieded by Johns Hopkins University Through coursera.
         image: images/Achievements/John_hopkins-Psychological_first_aid.webp
         url: https://www.coursera.org/account/accomplishments/certificate/RK5PE3GSNEHT
+
+      - title: Linux Commands & Shell Scripting Essentials V2
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/linux-commands-shell-scripting-essentials-v2-removebg-preview.webp
+        url: https://www.credly.com/badges/2c3ca3c7-314a-4694-a8e2-29d17051240a/public_url
+
+      - title: Git and GitHub Essentials
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/git-and-github-essentials.webp
+        url: https://www.credly.com/badges/658f444b-98a6-4413-b3c3-533621185af8/public_url
 
       - title: Introduction to Cloud Computing
         content: Provided by IBM, Issued by Coursera Through Credly.
