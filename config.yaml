@@ -219,9 +219,9 @@ params:
           url: "https://www.linkedin.com/in/prakash4844/"
         info:
           enable: true
-          content: I am working as a Python developer intern in Code Clause.
+          content: Worked Python developer intern in Code Clause.
         content: |
-          I am currently working as a Python developer at [Code Clause](https://codeclause.com/) in pune, remotely. I am currently working on project that use various python modules such as tkinter, customtinkter, pyperclip, py to exe etc.
+          Python developer at [Code Clause](https://codeclause.com/) in pune, remotely. I am currently working on project that use various python modules such as tkinter, customtinkter, pyperclip, py to exe etc.
 
           - Created a Random Password generator with custom length and characters with modern GUI.
           - working on Calcultor that uses event-listners with modern GUI.
@@ -235,7 +235,7 @@ params:
           enable: true
           name: "View the profile"
           url: "https://www.c-sharpcorner.com/members/prakash-kumar90"
-        content: "I have worked as a Technical Content Writer intern at [C# Corner.](https://www.c-sharpcorner.com/) in Ghaziabad, UP. I wrote on technologies like Visual Studio/code, Graphic Programming and BGI."
+        content: "Worked as a Technical Content Writer intern at [C# Corner.](https://www.c-sharpcorner.com/) in Ghaziabad, UP. I wrote on technologies like Visual Studio/code, Graphic Programming and BGI."
 
       #
       # - job: "Junior Software Developer"
