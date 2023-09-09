@@ -118,18 +118,21 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "Hi, I'm"
     title: "Prakash."
-    subtitle: "I build things that pique my interests."
-    content: "A passionate software developer. I tend to make use of a variety of technologies to build websites, programs and games. that feels fantastic, and functions correctly"
+    subtitle: "A DevOps Engineer."
+    content: |-
+      My primary mission is to orchestrate the perfect synergy between development and operations. 
+      I utilize a wide range of cutting-edge technologies for strategic implementation of DevOps processes and tools, 
+      ensuring seamless and flawless Devlopment & operations that exceed expectations.
     image: https://i.imgur.com/6ZGl7Tl.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Download Resume"
-      url: "https://drive.google.com/file/d/1CMPiXSvFGMA7jXKlNYYCwFUfRiOyXIPo/view?usp=sharing"
+      name: "Latest Resume"
+      url: "https://flowcv.com/resume/om908lwaqp"
       download: true
       newPage: true
     socialLinks:
@@ -148,8 +151,17 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for Games, Desktop and web development along with Devops. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently doing my Bachelors in Computer Applications.
-      I am currently working on a project that helps people get fimiliar with GNU/Linux based Operating Systems.
+      I am a DevOps Engineer and software developer, I bridge the gap between development and operations to 
+      streamline software delivery and enhance system reliability. With a solid foundation in computer science, 
+      I thrive at the intersection of technology and efficiency.
+
+      I have dedicated myself to projects that not only involve coding but also optimizing deployment pipelines, 
+      automating processes, and ensuring the seamless operation of software systems.
+
+      One of my ongoing initiatives involves helping individuals become well-versed in GNU/Linux-based operating 
+      systems, showcasing how DevOps principles can empower efficient system management. My goal is to continue 
+      exploring the dynamic world of DevOps and harnessing its potential to create robust and scalable software 
+      solutions.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -157,6 +169,10 @@ params:
         - "Python"
         - "git and GitHub"
         - "GitHub Action"
+        - "Docker/Podman"
+        - "Microsoft Azure"
+        - "Bash"
+        - "Agile"
         - "HTML/CSS"
         - "JavaScript"
         - "Hugo"
@@ -166,6 +182,8 @@ params:
         - "Windows"
         - "C#"
         - "C/C++"
+        - "NGINX"
+        - "RegEx"
         - "Unity Engine"
         - "Unreal"
         # - "Example"
@@ -290,6 +308,11 @@ params:
         image: images/Achievements/IBM-Specialization-Devops,cloud,agile.webp
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZX8BJVA2SCLH
 
+      - title: Python for Data Science, AI & Development
+        content: Provided by IBM Through coursera.
+        image: images/Achievements/IBM-Py-for-DS-AI-&_Develop.webp
+        url: https://www.coursera.org/account/accomplishments/certificate/NHKBH4U28G9B
+
       - title: Getting Started with Git and GitHub
         content: Provided by IBM Through coursera.
         image: images/Achievements/IBM-Getting_Started_with_Git_and_GitHub.webp
@@ -300,15 +323,25 @@ params:
         image: images/Achievements/IBM_Intro_linux_Shell.webp
         url: https://www.coursera.org/account/accomplishments/certificate/ZY3M274N9K72
 
-      - title: Introduction to Cloud Computing
+      - title: Introduction to Software Engineering
         content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-cloud-computing.webp
-        url: https://www.coursera.org/account/accomplishments/certificate/BFW2XQYJNEBD
+        image: images/Achievements/IBM-Intro-to-Software-Eng.webp
+        url: https://www.coursera.org/account/accomplishments/certificate/9T7GVSAE9PL3
 
-      - title: Introduction to DevOps
-        content: Provided by IBM Through coursera.
-        image: images/Achievements/IBM-Intro-to-Devops.webp
-        url: https://www.coursera.org/account/accomplishments/certificate/NY38BR4KKGYN
+      # - title: Introduction to Agile Development and Scrum
+      #   content: Provided by IBM, Through Coursera.
+      #   image: images/Achievements/IBM-Intro-to-Agile-&-Scrum.webp
+      #   url: https://www.coursera.org/account/accomplishments/certificate/7DCHLVEDPVQC
+
+      # - title: Introduction to Cloud Computing
+      #   content: Provided by IBM Through coursera.
+      #   image: images/Achievements/IBM-Intro-to-cloud-computing.webp
+      #   url: https://www.coursera.org/account/accomplishments/certificate/BFW2XQYJNEBD
+
+      # - title: Introduction to DevOps
+      #   content: Provided by IBM Through coursera.
+      #   image: images/Achievements/IBM-Intro-to-Devops.webp
+      #   url: https://www.coursera.org/account/accomplishments/certificate/NY38BR4KKGYN
       
       - title: Introduction to Software, Programming, and Databases.
         content: Provided by IBM Through coursera.
@@ -339,6 +372,8 @@ params:
         content: Provieded by Johns Hopkins University Through coursera.
         image: images/Achievements/John_hopkins-Psychological_first_aid.webp
         url: https://www.coursera.org/account/accomplishments/certificate/RK5PE3GSNEHT
+
+        # Credly Badges starts here
 
       - title: Linux Commands & Shell Scripting Essentials V2
         content: Provided by IBM, Issued by Coursera Through Credly.
