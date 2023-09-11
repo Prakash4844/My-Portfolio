@@ -42,48 +42,94 @@ When you're deciding what words to put in the search box, try to choose words th
 
 simply saying `my head hurts` won't yield anything specific.
 
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip2.png" alt="Tip 2">
+</br> </br>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip2-1.png", alt="Tip 2-1">
+</p>
+
+<!-- 
+
 ![Tip 2](/images/Learn-to-use-Google-part-1/media/Tip2.png)
 
-![Tip 2-1](/images/Learn-to-use-Google-part-1/media/Tip2-1.png)
+![Tip 2-1](/images/Learn-to-use-Google-part-1/media/Tip2-1.png) 
+
+-->
 
 **Tip 3: Don’t worry about the little things**
 
 Spelling: Google's spell checker automatically uses the most common spelling of a given word, whether or not you spell it correctly. 
 
-![Tip 3](/images/Learn-to-use-Google-part-1/media/Tip3.png)
+<!-- ![Tip 3](/images/Learn-to-use-Google-part-1/media/Tip3.png) -->
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip3.png" alt="Tip 3">
+</p>
     
 Capitalization: A search for New York Times is the same as a search for new york times.
 
-![Tip 3-1](/images/Learn-to-use-Google-part-1/media/Tip3-1.png)
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip3-1.png" alt="Tip 3-1">
+</br> </br>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip3-1-1.png", alt="Tip 3-1-1">
+</p>
 
-![Tip 3-1-1](/images/Learn-to-use-Google-part-1/media/Tip3-1-1.png)
+<!-- ![Tip 3-1](/images/Learn-to-use-Google-part-1/media/Tip3-1.png)
+
+![Tip 3-1-1](/images/Learn-to-use-Google-part-1/media/Tip3-1-1.png) -->
 
 **Tip 4: Find quick answers**
+
 
 For many searches, Google will do the work for you and show an answer to your question in the search results. Some features, like information about sports teams, aren't available in all regions. 
 
 1. Weather: Search `weather` to see the weather in your location or add a city name, like - `weather seattle`, to find weather for a certain place.
 
-![Tip 4-1](/images/Learn-to-use-Google-part-1/media/Tip4-1.png)
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-1.png" alt="Tip 4-1">
+</br> </br>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-1-1.png", alt="Tip 4-1-1">
+</p>
+<!-- ![Tip 4-1](/images/Learn-to-use-Google-part-1/media/Tip4-1.png) -->
 
-![Tip 4-1-1](/images/Learn-to-use-Google-part-1/media/Tip4-1-1.png)
+<!-- ![Tip 4-1-1](/images/Learn-to-use-Google-part-1/media/Tip4-1-1.png) -->
 
 
 2. Dictionary: Put `define` in front of any word to see its definition. 
 
-![Tip 4-2](/images/Learn-to-use-Google-part-1/media/Tip4-2.png)
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-2.png" alt="Tip 4-2">
+</p>
+
+<!-- ![Tip 4-2](/images/Learn-to-use-Google-part-1/media/Tip4-2.png) -->
 
 3. Calculations: Enter a math equation like `3*9123`, or solve complex graphing equations.
 
-![Tip 4-3](/images/Learn-to-use-Google-part-1/media/Tip4-3.png)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-3.png" alt="Tip 4-3">
+</p>
+
+<!-- ![Tip 4-3](/images/Learn-to-use-Google-part-1/media/Tip4-3.png) -->
 
 4. Unit conversions: Enter any conversion, like `3 dollars in euros`.
 
-![Tip 4-4](/images/Learn-to-use-Google-part-1/media/Tip4-4.png)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-4.png" alt="Tip 4-4">
+</p>
+
+<!-- ![Tip 4-4](/images/Learn-to-use-Google-part-1/media/Tip4-4.png) -->
 
 5. Sports: Search for the name of your team to see a schedule, game scores and more. 
 
-![Tip 4-5](/images/Learn-to-use-Google-part-1/media/Tip4-5.png)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-1/media/Tip4-5.png" alt="Tip 4-5">
+</p>
+
+<!-- ![Tip 4-5](/images/Learn-to-use-Google-part-1/media/Tip4-5.png) -->
 
 6. Quick facts: Search for the name of a celebrity, location, movie, or song to find related information. 
 

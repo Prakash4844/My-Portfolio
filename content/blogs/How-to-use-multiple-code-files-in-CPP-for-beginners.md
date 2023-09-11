@@ -74,13 +74,22 @@ Explorer***, its either in RHS or LHS. In ***solution explorer*** click
 of ***Source files*** and you will see a intial file that the vs code
 provides. And it will open the hello world program in editor
 
-![](/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image5.png)
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image5.png">
+</p>
+
+<!-- ![](/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image5.png) -->
 
 Step 6 – Create a ***new item***. By right clicking Project in
 ***solution explorer*** then click ***Add*** and in next option menu
 click on ***new item***.
 
-![](/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image6.png)
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image6.png">
+</p>
+
+<!-- ![](/images/How-to-use-multiple-code-files-in-CPP-for-beginners/media/image6.png) -->
+
 
 Step 7 – Select ***C++ File (.cpp)*** File. Give the new file a name(we
 will use “square”), and it will be added to your project.
@@ -123,7 +132,7 @@ int square(int num)
 
 {
 
-  return (num \* num);
+  return (num * num);
 
 }
 ```

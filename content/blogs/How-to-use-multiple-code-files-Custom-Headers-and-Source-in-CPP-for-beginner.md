@@ -45,13 +45,14 @@ For this, You should use an Integrated Development Environment. This will greatl
 
 *Here you can get to know about the setup process of Visual Studio Community for C++*
 
-
-
 ## **Step-by-step instructions**
 
 Step 1 – Launch Visual Studio Community by Double clicking on its icon or ***right click/open.***
 
-![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/VSComm_Open.jpg)
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/VSComm_Open.jpg">
+</p>
+<!-- ![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/VSComm_Open.jpg) -->
 
 *Open Visual Studio community*
 
@@ -83,13 +84,20 @@ Step 5 – When Visual Studio Community Editor opens up. Look for ***Solution Ex
 
 *An Initial hello world program provided by Visual Studio community*
 
-![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Solutionexplorer.jpg)
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Solutionexplorer.jpg">
+</p>
+<!-- ![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Solutionexplorer.jpg) -->
 
 Solution explorer tab
 
 Step 6 – Create a ***new item***. By right clicking Project in ***solution explorer*** then click ***Add*** and in next option menu click on ***new item***.
 
-![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
+
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png">
+</p>
+<!-- ![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png) -->
 
 Create a new Item 
 
@@ -136,7 +144,7 @@ int square(int num)
 
 {
 
-    return (num \* num);
+    return (num * num);
 
 }
 ```
@@ -153,11 +161,15 @@ Adding a Header File works same as how we added another CPP source file(Squre.cp
 
 Step 8 – Create a ***new item***. By right clicking Project in ***solution explorer*** then click ***Add*** and in next option menu click on ***new item***.
 
-![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png)
+
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png">
+</p>
+<!-- ![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Create_a_new_item.png) -->
 
 Create a new item
 
-Step 7 – This time select ***Header File (.h)*** File.
+Step 9 – This time select ***Header File (.h)*** File.
 
 Header files are commonly used with CPP (Source) code files, with the header file providing forward declarations(Prototype) for the corresponding CPP code file. Since our header file will contain a forward declaration for functions defined in *Square.cpp*, we’ll Name our new header file *Square.h*. and Click *Create* and it will be added to your project.
 
@@ -165,11 +177,17 @@ Header files are commonly used with CPP (Source) code files, with the header fil
 
 Choose Header file
 
-**NOTE:** If a header file is paired with a code file (e.g. Square.h with Square.cpp), they should both have the same base name (Square).
+> **NOTE:** If a header file is paired with a code file (e.g. Square.h with Square.cpp), they should both have the same base name (Square).
+
+
 
 Also, Check in Solution explorer if it is added to your solution
 
-![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Header_Solution_explorer.jpg)
+
+<p align=center>
+<img src="/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Header_Solution_explorer.jpg">
+</p>
+<!-- ![](/images/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner/media/Header_Solution_explorer.jpg) -->
 
 Check if header is included in our solution
 

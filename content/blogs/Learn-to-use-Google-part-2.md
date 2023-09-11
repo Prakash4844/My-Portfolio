@@ -151,13 +151,22 @@ You can track (most) packages in your search bar. Just paste the tracking number
 
 No more Wondering where that delivery has gone? 
 
-![Tip 4](/images/Learn-to-use-Google-part-2/media/Tip4.webp)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-2/media/Tip4.webp" alt="Tip 4">
+</p>
+
+<!-- ![Tip 4](/images/Learn-to-use-Google-part-2/media/Tip4.webp) -->
 
 ### **Tip 5. Spell out absurd Numbers**
 
 How do you spell out 200,845,106,052? Google can tell you if you search `[number]=english`. A card will show you that it's two hundred billion eight hundred forty-five million one hundred six thousand fifty-two.
 
-![Tip 5](/images/Learn-to-use-Google-part-2/media/Tip5.webp)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-2/media/Tip5.webp" alt="Tip 5">
+</p>
+<!-- ![Tip 5](/images/Learn-to-use-Google-part-2/media/Tip5.webp) -->
 
 ### **BONUS TIP: Some FUN things | Easter Eggs**
 
@@ -181,7 +190,12 @@ there are a number of search-related Easter eggs. Here are a few words or phrase
   - `Super Mario. Bros. 1985`: An animated sprite of a coin block will appear in the search card. Click it to grab a coin.
   - `Webdriver torso`: The Google logo will turn into colored blocks.
 
-![Fun](/images/Learn-to-use-Google-part-2/media/Fun.webp)
+
+<p align=center>
+<img src="/images/Learn-to-use-Google-part-2/media/Fun.webp" alt="Fun">
+</p>
+
+<!-- ![Fun](/images/Learn-to-use-Google-part-2/media/Fun.webp) -->
 
 
 ### **Conclusion**

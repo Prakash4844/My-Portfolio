@@ -118,13 +118,21 @@ And Visual Studio Community will Reconfigure the Project to target the Current V
 
 **Step 9:** In Visual Studio Community, Open** the solution explorer then open the source file and you will see a bunch of files there here create a new source code file(.**cpp**)
 
-![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Sol_Explorer.jpg)
+
+<p align=center>
+<img src="/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Sol_Explorer.jpg">
+</p>
+<!-- ![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Sol_Explorer.jpg) -->
 
 ![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/New_Source_File.jpg)
 
 **Step 10:** Select C++ File (.**cpp**) File. Give the new file a name(we will use “Test”), and it will be added to your project.
 
-![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/test_file.jpg)
+
+<p align=center>
+<img src="/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/test_file.jpg">
+</p>
+<!-- ![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/test_file.jpg) -->
 
 **Step 11:** Now write this code in **test.cpp** and Save the file.
 
@@ -159,7 +167,11 @@ int main()
 
 And you will see that your Program runs and a Circle is drawn on the console that opens up as shown in the screenshot.
 
-![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg)
+
+<p align=center>
+<img src="/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg">
+</p>
+<!-- ![](/images/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP/media/Drawn_Circle.jpg) -->
 
 
 Now, whenever you would need to write a new code just create a new file and write code in it and run just as we did for **test.cpp**
