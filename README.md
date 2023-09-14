@@ -10,4 +10,8 @@ Netlify Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/1e600c4
 [![Main Deploy Prakash's Portfolio](https://github.com/Prakash4844/My-Portfolio/actions/workflows/hugo.yml/badge.svg)](https://github.com/Prakash4844/My-Portfolio/actions/workflows/hugo.yml)
 
 
-![Preview](static/Image.png)
+![Preview Light-Mode](static/Image-L.webp)
+
+---
+
+![Preview Dark-Mode](static/Image-D.webp)
