@@ -308,6 +308,11 @@ params:
         image: images/Achievements/IBM-Specialization-Devops,cloud,agile.webp
         url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZX8BJVA2SCLH
 
+      - title: Application Development using Microservices and Serverless 
+        content: Provided by IBM Through coursera.
+        image: images/Achievements/IBM_Application-Microservices.webp
+        url: https://www.coursera.org/account/accomplishments/certificate/ZFJZ5JEQ3HQP
+
       - title: Introduction to Containers w/ Docker, Kubernetes & OpenShift
         content: Provided by IBM Through coursera.
         image: images/Achievements/IBM_Container_Docker_k8_openshift.webp
@@ -395,15 +400,35 @@ params:
 
         # Credly Badges starts here
 
+      - title: Application Development using Microservices and Serverless
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/application-development-using-microservices-and-serverless.webp
+        url: https://www.credly.com/badges/f71b8efe-1386-4f24-a0bb-81b0a1e87fc1/public_url
+
+      - title: Containers & Kubernetes Essentials
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/containers-kubernetes-essentials.1.webp
+        url: https://www.credly.com/badges/298a45b3-214b-4fb4-a962-8f3eb72130e7/public_url
+
+      - title: Python for Data Science and AI
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/python-for-data-science-and-ai.webp
+        url: https://www.credly.com/badges/ce2221b0-d1a3-4a2d-8239-f3dffd91948b/public_url
+
       - title: Linux Commands & Shell Scripting Essentials V2
         content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/linux-commands-shell-scripting-essentials-v2-removebg-preview.webp
+        image: images/Achievements/credly_badge/linux-commands-shell-scripting-essentials-v2.webp
         url: https://www.credly.com/badges/2c3ca3c7-314a-4694-a8e2-29d17051240a/public_url
 
       - title: Git and GitHub Essentials
         content: Provided by IBM, Issued by Coursera Through Credly.
         image: images/Achievements/credly_badge/git-and-github-essentials.webp
         url: https://www.credly.com/badges/658f444b-98a6-4413-b3c3-533621185af8/public_url
+
+      - title: Software Engineering Essentials
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/software-engineering-essentials.webp
+        url: https://www.credly.com/badges/6bd0007d-1114-478d-871e-828c8029edf2/public_url
 
       - title: Introduction to Cloud Computing
         content: Provided by IBM, Issued by Coursera Through Credly.
@@ -415,15 +440,15 @@ params:
         image: images/Achievements/credly_badge/devops-essentials.2.webp
         url: https://www.credly.com/badges/9811055c-dd3f-4edd-874a-04e650238060/public_url
       
-      - title: Hardware and Operating Systems Essential
-        content: Provided by IBM, Issued by Coursera Through Credly.
-        image: images/Achievements/credly_badge/hardware-and-operating-system-essentials.webp
-        url: https://www.credly.com/badges/2cb094fc-fc69-4872-8d74-f84c87fafa4e/public_url
-      
       - title: Software, Programming, and Database Essentials
         content: Provided by IBM, Issued by Coursera Through Credly.
         image: images/Achievements/credly_badge/software-programming-and-database-essentials.webp
         url: https://www.credly.com/badges/5e1bd711-131f-4b9b-b213-e0ed5846c807/public_url
+
+      - title: Hardware and Operating Systems Essential
+        content: Provided by IBM, Issued by Coursera Through Credly.
+        image: images/Achievements/credly_badge/hardware-and-operating-system-essentials.webp
+        url: https://www.credly.com/badges/2cb094fc-fc69-4872-8d74-f84c87fafa4e/public_url
 
   # projects
   projects:
