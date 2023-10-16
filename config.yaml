@@ -193,10 +193,23 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Associate Site Reliability Engineer"
+        company: "Workspan"
+        companyUrl: "https://www.workspan.com/"
+        date: "Oct 2023 - Present"
+        featuredLink:
+          enable: true
+          url: "https://www.linkedin.com/in/prakash4844/"
+        info:
+          enable: true
+          content: Site reliability engineering (SRE) is the practice of using software tools to automate IT infrastructure tasks such as system management and application monitoring. 
+        content: |
+          Maintaining the reliability and performance of production systems in an organization. Bridging the gap between development and IT operations by taking on operational tasks and responsibilities typically handled by operations teams.
+
       - job: "Microsoft Future Ready Internship"
         company: "Microsoft"
         companyUrl: "https://www.microsoft.com/en-in"
-        date: "jul 2023 - Present"
+        date: "jul 2023 - Sep 2023"
         featuredLink:
           enable: true
           url: "https://www.linkedin.com/in/prakash4844/"
